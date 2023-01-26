@@ -1,3 +1,3 @@
-* CRUD Rest endpoints for users using springboot.
+## Reactive-rest-service with CRUD operations 
 
-* Reactive in nature using Spring webflux and R2DBC postgreSQL Database.
+Rest endpoints for customer, built in Spring webflux and R2DBC (driver reactive in nature) with postgreSQL Database.
