@@ -13,6 +13,10 @@ mvn spring-boot:run
 Tech stack used - 
 
 ```
-Java 11, Spring Boot, Reactive webflux, Maven, PostGreSQL Database
+- Java 11
+- Spring Boot
+- Reactive webflux
+- Maven
+- PostGreSQL Database
 
 ```
